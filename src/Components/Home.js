@@ -1,4 +1,5 @@
 import wires from '../Assets/wires.jpg';
+// import board from '../Assets/board.jpg';
 function Home() {
   return (
         <><div>

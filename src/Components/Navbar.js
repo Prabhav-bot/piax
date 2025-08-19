@@ -8,6 +8,7 @@ function Navbar() {
                 <Link to={"/"} className="LS">Home</Link>
                 <Link to={"/About"} className="LS">About</Link>
                 <Link to={"/Contact"} className="LS">Contact</Link>
+                
             <nav className="navStyle1">
                 <Link to={"/Signup"} className="LS1">Signup</Link>
             </nav>
