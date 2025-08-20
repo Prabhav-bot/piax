@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/piax/static/css/main.d6faef08.css",
-    "main.js": "/piax/static/js/main.b6895ba7.js",
+    "main.css": "/piax/static/css/main.85698a68.css",
+    "main.js": "/piax/static/js/main.a5d9af62.js",
     "static/js/453.1af0fe18.chunk.js": "/piax/static/js/453.1af0fe18.chunk.js",
     "static/media/AB1.jpg": "/piax/static/media/AB1.a5ef2ece459c38afd72c.jpg",
     "static/media/wires.jpg": "/piax/static/media/wires.f81ca49a37ca69e20c5f.jpg",
     "static/media/applap.jpg": "/piax/static/media/applap.9b7a23b6d07bf30c78f2.jpg",
     "index.html": "/piax/index.html",
-    "main.d6faef08.css.map": "/piax/static/css/main.d6faef08.css.map",
-    "main.b6895ba7.js.map": "/piax/static/js/main.b6895ba7.js.map",
+    "main.85698a68.css.map": "/piax/static/css/main.85698a68.css.map",
+    "main.a5d9af62.js.map": "/piax/static/js/main.a5d9af62.js.map",
     "453.1af0fe18.chunk.js.map": "/piax/static/js/453.1af0fe18.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d6faef08.css",
-    "static/js/main.b6895ba7.js"
+    "static/css/main.85698a68.css",
+    "static/js/main.a5d9af62.js"
   ]
 }
