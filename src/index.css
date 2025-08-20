@@ -15,11 +15,11 @@ code {
 .s{
   font-size: 20px;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  font-style: italic;
+  color: aliceblue;
   text-decoration: solid;
-  margin: 150px;
+  margin: 50px;
+  text-align: justify;
   z-index: 1;
-  /* background-color: black; */
 }
 
 .samosa {
