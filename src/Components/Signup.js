@@ -15,7 +15,7 @@ function Signup() {
 
       return (
         <form onSubmit={handleSubmit}>
-          <h2>Welocome to Pentonic<br></br> User Login</h2>
+          <h2>Welocome to PAIX <br></br> User Signup</h2>
           <div>
             <label htmlFor="email">Email:</label>
             <input

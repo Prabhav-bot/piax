@@ -93,29 +93,33 @@ code {
   justify-content: space-between;
   text-decoration: none;
   align-items: center;
-  padding: 10px 20px;
-  background-color: #3570ac;
+  padding: 10px 30px;
+  background-color: #000000;
   z-index: 1;
+}
+
+.navStyle1{
+  border-radius: 20px;
+  border: 10px solid #000000;
+  text-decoration: none;
+  background-color: #000000;
+  z-index: 1;
+  margin-left: 1040px;
 }
 .LS{
   display: flex;
   align-items: center;
   justify-content: center;
   text-decoration: none;
-  color: #000000;
-  font-size: 18px;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  font-style: italic;
+  color: #ffffff;
+  font-size: 15px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 
 }
 .LS1{
   display: flex;
-  align-items: center;
-  justify-content: center;
   text-decoration: none;
-  color: #000000;
+  color: #e5b0b0;
   font-size: 18px;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  font-style: italic;
-  margin-left: 520px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
