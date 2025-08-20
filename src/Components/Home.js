@@ -14,6 +14,9 @@ function Home() {
                         <a className="link" href="/Contact"> Know Your Path </a>
                     </button>
                 </div>
+                <div className='search1'>
+                    <input type="text" id="name" name="name" required />
+                </div>
             </div>
         </div></>
   );

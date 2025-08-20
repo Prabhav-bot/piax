@@ -15,7 +15,7 @@ function Signup() {
       };
 
       return (
-        <div>
+       <> <div>
         <img src={applap} className="samosa" alt="samosa" />
         <form onSubmit={handleSubmit}>
           <h2>Welocome to PAIX <br></br> User Signup</h2>
@@ -42,6 +42,8 @@ function Signup() {
           <button type="submit">Log In</button>
         </form>
         </div>
+        <footer className="footer">
+        <p>© 2023 PAIX. All rights reserved.</p></footer></>
       );
     }
 

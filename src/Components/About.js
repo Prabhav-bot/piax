@@ -12,7 +12,13 @@ function About(){
         that enhance engagement and effectiveness. Through its intelligent platform, PAIX aims to <br></br>
         democratize access to quality education, empower learners to reach their full potential, and <br></br>
         transform the traditional learning landscape into a more adaptive and personalized environment.</p>
-    </div></>
+    </div>
+    <footer className="footer">
+        <p>© 2023 PAIX. All rights reserved.</p></footer>
+    
+    
+    </>
+
     )
 };
 

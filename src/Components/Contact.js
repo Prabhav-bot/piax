@@ -1,7 +1,7 @@
 import applap from '../Assets/applap.jpg';
 function Contact() {
   return (
-    <div className="contact">
+   <> <div className="contact">
       <img src={applap} className="samosa" alt="samosa" />
       <h1>Contact Us</h1>
       <p>If you have any questions, feel free to reach Mr. Prabhav !</p>
@@ -18,6 +18,8 @@ function Contact() {
         <button type="submit">Send</button>
       </form>
     </div>
+    <footer className="footer">
+        <p>© 2023 PAIX. All rights reserved.</p></footer></>
   );
 }
 
