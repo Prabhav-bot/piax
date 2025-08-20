@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/piax/static/css/main.b7988ea4.css",
+    "main.js": "/piax/static/js/main.a8e59eab.js",
+    "static/js/453.1af0fe18.chunk.js": "/piax/static/js/453.1af0fe18.chunk.js",
+    "static/media/wires.jpg": "/piax/static/media/wires.e1f95b09f6be3c97c591.jpg",
+    "static/media/samosa.jpg": "/piax/static/media/samosa.c5d76ad53e41ba65aecf.jpg",
+    "index.html": "/piax/index.html",
+    "main.b7988ea4.css.map": "/piax/static/css/main.b7988ea4.css.map",
+    "main.a8e59eab.js.map": "/piax/static/js/main.a8e59eab.js.map",
+    "453.1af0fe18.chunk.js.map": "/piax/static/js/453.1af0fe18.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7988ea4.css",
+    "static/js/main.a8e59eab.js"
+  ]
+}
