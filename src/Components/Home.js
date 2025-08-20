@@ -1,11 +1,11 @@
-import wires from '../Assets/wires.jpg';
-// import kalagola from '../Assets/kalagola.jpg';
+// import wires from '../Assets/wires.jpg';
+import AB1 from '../Assets/AB1.jpg';
 function Home() {
   return (
         <><div>
             <div className="C1">
                 <div>
-                    <img id="piaxlogo" src={wires} height="90%" width="95%" alt="Piaxlogo"/>
+                    <img id="piaxlogo" src={AB1} height="90%" width="95%" alt="Piaxlogo"/>
                 </div>
                 <div>
                     <h4 className="title">PAIX AI</h4>
