@@ -23,11 +23,14 @@ code {
 }
 
 .samosa {
-  /* border-radius: 50%; */
-  /* box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); */
-  z-index: 1;
-  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
   width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-position: center;
+  z-index: -1;
 }
 
 #piaxlogo {
@@ -94,13 +97,13 @@ code {
   text-decoration: none;
   align-items: center;
   padding: 10px 30px;
-  background-color: #000000;
+  background-color: transparent;
   z-index: 1;
 }
 
 .navStyle1{
-  border-radius: 20px;
-  border: 10px solid #000000;
+  border-radius: 50px;
+  border: 15px solid #000000;
   text-decoration: none;
   background-color: #000000;
   z-index: 1;
@@ -108,8 +111,6 @@ code {
 }
 .LS{
   display: flex;
-  align-items: center;
-  justify-content: center;
   text-decoration: none;
   color: #ffffff;
   font-size: 15px;
@@ -119,7 +120,7 @@ code {
 .LS1{
   display: flex;
   text-decoration: none;
-  color: #e5b0b0;
-  font-size: 18px;
+  color: #ffffff;
+  font-size: 16px;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }

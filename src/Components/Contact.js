@@ -1,6 +1,8 @@
+import applap from '../Assets/applap.jpg';
 function Contact() {
   return (
     <div className="contact">
+      <img src={applap} className="samosa" alt="samosa" />
       <h1>Contact Us</h1>
       <p>If you have any questions, feel free to reach Mr. Prabhav !</p>
       <form>

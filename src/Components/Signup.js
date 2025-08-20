@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import './Signup.css';
+import applap from '../Assets/applap.jpg';
 
 function Signup() {
     const [email, setEmail] = useState('');
@@ -14,6 +15,8 @@ function Signup() {
       };
 
       return (
+        <div>
+        <img src={applap} className="samosa" alt="samosa" />
         <form onSubmit={handleSubmit}>
           <h2>Welocome to PAIX <br></br> User Signup</h2>
           <div>
@@ -38,6 +41,7 @@ function Signup() {
           </div>
           <button type="submit">Log In</button>
         </form>
+        </div>
       );
     }
 

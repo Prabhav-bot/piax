@@ -1,5 +1,5 @@
 import wires from '../Assets/wires.jpg';
-// import board from '../Assets/board.jpg';
+// import kalagola from '../Assets/kalagola.jpg';
 function Home() {
   return (
         <><div>
